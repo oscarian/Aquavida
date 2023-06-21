@@ -1,4 +1,4 @@
-package Modelo;
+package Modelo.Estadisticas;
 
 public class Estadisticas {
 }

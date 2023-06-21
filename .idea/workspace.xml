@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="125a0853-edbe-4b38-91a2-cba2fbbcddbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Mantenimiento/Mantenimiento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Mantenimiento/testunitario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modelo/Mantenimiento.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Estadisticas/Estadisticas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelo/Reportes/Reportes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modelo/Estadisticas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modelo/Reportes.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
